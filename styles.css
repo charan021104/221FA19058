@@ -65,7 +65,7 @@ main {
 }
 
 .recipe h3 {
-    color: #8bc34a; /* Light green shade for headings */
+    color: green; /* Light green shade for headings */
     margin-bottom: 10px;
 }
 
@@ -87,13 +87,13 @@ a.viewRecipeBtn {
 }
 
 a.viewRecipeBtn:hover {
-    background-color: #2e7d32; /* Darker green on hover */
+    background-color: green; /* Darker green on hover */
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #8bc34a;
+    background-color: black;
     color: white;
     position: relative;
     bottom: 0;
